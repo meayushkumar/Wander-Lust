@@ -1,3 +1,4 @@
+
 ### 🌍 WanderLust Project 🏡
 
 #### Project Summary
@@ -68,3 +69,7 @@ This WanderLust project showcases my proficiency in full-stack web development, 
 - Multer for File Uploads
 - Passport Local for Local Authentication
 - Passport Local Mongoose for Mongoose-Specific Authentication
+
+# Wander-Lust
+A full-stack Airbnb-inspired web application for discovering, listing, and managing vacation stays, built with Node.js, Express.js, MongoDB, and EJS.
+
